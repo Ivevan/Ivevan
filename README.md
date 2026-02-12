@@ -1,18 +1,21 @@
-Hi, I’m Ivevan 👋  
-I’m an aspiring software developer focused on building practical web and system applications.
+## Hi, I’m Ivevan 👋
 
-I enjoy working on real-world projects that help me understand how things work under the hood, from authentication and APIs to clean user interfaces. Most of my projects are built as learning tools, but I treat them like real products: structured, documented, and continuously improved.
+I’m an aspiring software developer focused on building practical web and system applications.  
+I enjoy learning by building real projects and improving them step by step.
 
-💻 Tech I work with:
+### 🛠 Tech I work with
 - JavaScript / TypeScript  
 - React, basic React Native  
 - Node.js, Firebase  
-- GraphQL, REST APIs  
+- REST APIs, GraphQL  
 - HTML, CSS
 
-🚀 What I’m currently doing:
-- Improving my existing projects on GitHub  
-- Learning better backend structure and security  
-- Building small full-stack applications for practice
+### 📌 What I’m focused on right now
+- Improving my existing GitHub projects  
+- Learning better backend structure and authentication  
+- Building small full-stack applications with real use cases
 
-📫 You can reach me via email or connect through my projects here on GitHub.
+### 📂 Featured Projects
+Check out my pinned repositories below to see what I’m currently working on.
+
+📫 You can reach me through my GitHub projects or email.

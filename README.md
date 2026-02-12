@@ -4,11 +4,13 @@ I’m an aspiring software developer focused on building practical web and syste
 I enjoy learning by building real projects and improving them step by step.
 
 ### 🛠 Tech I work with
-- JavaScript / TypeScript  
-- React, basic React Native  
-- Node.js, Firebase  
-- REST APIs, GraphQL  
-- HTML, CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-323330?style=flat&logo=node.js&logoColor=339933)
+![Firebase](https://img.shields.io/badge/Firebase-323330?style=flat&logo=firebase&logoColor=FFCA28)
+![GraphQL](https://img.shields.io/badge/GraphQL-323330?style=flat&logo=graphql&logoColor=E10098)
+
 
 ### 📌 What I’m focused on right now
 - Improving my existing GitHub projects  

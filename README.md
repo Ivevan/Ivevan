@@ -19,7 +19,4 @@ I enjoy learning by building real projects and improving them step by step.
 - Learning better backend structure and authentication  
 - Building small full-stack applications with real use cases
 
-### 📂 Featured Projects
-Check out my pinned repositories below to see what I’m currently working on.
-
 📫 You can reach me through my GitHub projects or email.

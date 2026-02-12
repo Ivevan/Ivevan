@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Ivevan 👋  
+I’m an aspiring software developer focused on building practical web and system applications.
 
-<!--
-**Ivevan/Ivevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working on real-world projects that help me understand how things work under the hood, from authentication and APIs to clean user interfaces. Most of my projects are built as learning tools, but I treat them like real products: structured, documented, and continuously improved.
 
-Here are some ideas to get you started:
+💻 Tech I work with:
+- JavaScript / TypeScript  
+- React, basic React Native  
+- Node.js, Firebase  
+- GraphQL, REST APIs  
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m currently doing:
+- Improving my existing projects on GitHub  
+- Learning better backend structure and security  
+- Building small full-stack applications for practice
+
+📫 You can reach me via email or connect through my projects here on GitHub.
